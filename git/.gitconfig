@@ -1,0 +1,11 @@
+[user]
+	name = Guy Israeli
+	email = "(none)"
+[color]
+	ui = always
+[crendetial]
+	helper = osxkeychain
+[push]
+	followTags = true
+[mergetool]
+	keepBackup = false
