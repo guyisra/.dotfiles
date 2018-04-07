@@ -1,0 +1,32 @@
+{
+    "workbench.iconTheme": "file-icons",
+    "prettier.trailingComma": "none",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "'Fira Code'",    
+    "files.autoSave": "onFocusChange",
+    "editor.tabSize": 2,
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "window.zoomLevel": 1,
+    "editor.renderWhitespace": "all",
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "prettier.printWidth": 100,
+    "explorer.confirmDelete": false,
+    "python.formatting.provider": "yapf",
+    "gitlens.keymap": "alternate",
+    "files.associations": {
+        "*.sc": "scala"
+    },
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": false,
+        "suppressShowKeyBindingsNotice": true
+    }
+}
