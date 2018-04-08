@@ -50,7 +50,7 @@ for file in $files; do
   # symlink might still exist
   unlink ~/$file > /dev/null 2>&1
   # create the link
-  ln -s ./$file ~/$file
+  ln -s ~/.dotfiles/files/$file ~/$file
   echo '\tlinked';ok
 done
 
