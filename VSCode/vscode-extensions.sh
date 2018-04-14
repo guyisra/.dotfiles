@@ -25,5 +25,4 @@ code --install-extension msjsdiag.debugger-for-chrome
 code --install-extension rebornix.Ruby
 code --install-extension robertohuertasm.vscode-icons
 code --install-extension ryanluker.vscode-coverage-gutters
-code --install-extension steveyin.arduino-vscode
 code --install-extension taichi.react-beautify

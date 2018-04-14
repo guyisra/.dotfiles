@@ -11,3 +11,4 @@ export NVM_DIR="$HOME/.nvm"
 # fzf fuzzy finder - https://github.com/junegunn/fzf
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion

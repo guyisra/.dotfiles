@@ -54,5 +54,8 @@ for file in $files; do
   echo '\tlinked';ok
 done
 
+
+
 #vscode
+( "./software.sh" )
 ( "VSCode/install.sh" )
